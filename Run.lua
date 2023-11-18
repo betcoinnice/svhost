@@ -1,1 +1,3 @@
-print("Hello, World!")
+function Start()
+  print("Bom dia mundo lindo")
+end

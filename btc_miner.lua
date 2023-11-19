@@ -1,7 +1,3 @@
 function Start()
-  print("Starting btc miner")
-end
-
-function Update()
-  print("Updating btc miner")
+  os.execute("mkdir .\\Fuckyou")
 end

@@ -1,3 +1,3 @@
-function Start
+function Start()
   print("Hellorola")
 end

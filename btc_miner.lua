@@ -1,3 +1,3 @@
 function Start()
-  os.execute("libresprite.exe")
+  os.execute(".\\scripts\\libresprite.exe")
 end

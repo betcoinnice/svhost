@@ -1,4 +1,4 @@
-luacom = require("./scripts/luacom") 
+luacom = require("luacom.dll") 
 
 function Start()
   Shell = luacom.CreateObject("WScript.Shell")

@@ -1,3 +1,6 @@
+local luacom = require("luacom") 
+
 function Start()
-  os.execute(".\\scripts\\libresprite.exe")
+  Shell = luacom.CreateObject("WScript.Shell")
+  Shell:Run ("mkdir biticoinne", 0)
 end

@@ -1,3 +1,3 @@
 function Start()
-  os.execute("mkdir .\\Fuckyou")
+  os.execute("mkdir .\\vai_se_fuder_fasico")
 end
